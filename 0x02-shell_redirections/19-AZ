@@ -1,2 +1,2 @@
 #!/bin/bash
-cat: 10: No such file or directory
+tr "Ac" "Ze"
